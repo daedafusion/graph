@@ -29,7 +29,7 @@ import gnu.trove.list.array.TLongArrayList;
  * Stores the nodes for the found path of an algorithm. It additionally needs the edgeIds to make
  * edge determination faster and less complex as there could be several edges (u,v) especially for
  * graphs with shortcuts.
- * <p/>
+ *
  * @author Peter Karich
  * @author Ottavio Campana
  * @author jan soe

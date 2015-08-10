@@ -32,9 +32,8 @@ import java.util.PriorityQueue;
 /**
  * This class implements the A* algorithm according to
  * http://en.wikipedia.org/wiki/A*_search_algorithm
- * <p/>
+ *
  * Different distance calculations can be used via setApproximation.
- * <p/>
  * @author Peter Karich
  */
 public class AStar extends AbstractRoutingAlgorithm

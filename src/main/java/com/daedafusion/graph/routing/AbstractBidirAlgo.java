@@ -22,7 +22,6 @@ import com.daedafusion.graph.storage.Graph;
 
 /**
  * Common subclass for bidirectional algorithms.
- * <p/>
  * @author Peter Karich
  */
 public abstract class AbstractBidirAlgo extends AbstractRoutingAlgorithm

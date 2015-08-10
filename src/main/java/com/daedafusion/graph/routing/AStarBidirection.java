@@ -31,24 +31,24 @@ import java.util.PriorityQueue;
  * This class implements a bidirectional A* algorithm. It is interesting to note that a
  * bidirectional dijkstra is far more efficient than a single direction one. The same does not hold
  * for a bidirectional A* as the heuristic can not be as tight.
- * <p/>
+ *
  * See http://research.microsoft.com/apps/pubs/default.aspx?id=64511
  * http://i11www.iti.uni-karlsruhe.de/_media/teaching/sommer2012/routenplanung/vorlesung4.pdf
  * http://research.microsoft.com/pubs/64504/goldberg-sofsem07.pdf
  * http://www.cs.princeton.edu/courses/archive/spr06/cos423/Handouts/EPP%20shortest%20path%20algorithms.pdf
- * <p/>
+ *
  * and
- * <p/>
+ *
  * 1. Ikeda, T., Hsu, M.-Y., Imai, H., Nishimura, S., Shimoura, H., Hashimoto, T., Tenmoku, K., and
  * Mitoh, K. (1994). A fast algorithm for finding better routes by ai search techniques. In VNIS,
  * pages 291–296.
- * <p/>
+ *
  * 2. Whangbo, T. K. (2007). Efficient modified bidirectional a* algorithm for optimal route-
  * finding. In IEA/AIE, volume 4570, pages 344–353. Springer.
- * <p/>
+ *
  * or could we even use this three phase approach?
  * www.lix.polytechnique.fr/~giacomon/papers/bidirtimedep.pdf
- * <p/>
+ *
  * @author Peter Karich
  * @author jansoe
  */

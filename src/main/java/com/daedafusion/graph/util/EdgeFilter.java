@@ -19,7 +19,7 @@ package com.daedafusion.graph.util;
 
 /**
  * Class used to traverse a graph.
- * <p/>
+ *
  * @author Peter Karich
  */
 public interface EdgeFilter

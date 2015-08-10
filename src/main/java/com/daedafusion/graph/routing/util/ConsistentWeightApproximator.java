@@ -4,11 +4,11 @@ import com.daedafusion.graph.storage.NodeAccess;
 
 /**
  * Turns an unidirectional weight Approximation into a bidirectional consistent one.
- * <p/>
+ *
  * Ikeda, T., Hsu, M.-Y., Imai, H., Nishimura, S., Shimoura, H., Hashimoto, T., Tenmoku, K., and
  * Mitoh, K. (1994). A fast algorithm for finding better routes by ai search techniques. In VNIS,
  * pages 291–296.
- * <p/>
+ *
  *
  * @author jansoe
  */

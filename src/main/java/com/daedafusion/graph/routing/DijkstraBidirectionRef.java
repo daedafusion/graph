@@ -31,9 +31,9 @@ import java.util.PriorityQueue;
 
 /**
  * Calculates best path in bidirectional way.
- * <p/>
+ *
  * 'Ref' stands for reference implementation and is using the normal Java-'reference'-way.
- * <p>
+ *
  * @author Peter Karich
  */
 public class DijkstraBidirectionRef extends AbstractBidirAlgo

@@ -98,7 +98,6 @@ public abstract class AbstractRoutingAlgorithm implements RoutingAlgorithm
     /**
      * To be overwritten from extending class. Should we make this available in RoutingAlgorithm
      * interface?
-     * <p/>
      * @return true if finished.
      */
     protected abstract boolean finished();
@@ -106,7 +105,6 @@ public abstract class AbstractRoutingAlgorithm implements RoutingAlgorithm
     /**
      * To be overwritten from extending class. Should we make this available in RoutingAlgorithm
      * interface?
-     * <p/>
      * @return true if finished.
      */
     protected abstract Path extractPath();

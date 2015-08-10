@@ -20,7 +20,7 @@ package com.daedafusion.graph.util.shapes;
 
 /**
  * Specifies a place by its coordinates or name
- * <p/>
+ *
  * @author Peter Karich
  */
 public class GHPlace extends GHPoint

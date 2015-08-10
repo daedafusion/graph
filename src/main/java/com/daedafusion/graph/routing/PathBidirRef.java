@@ -22,7 +22,7 @@ import com.daedafusion.graph.storage.Graph;
 
 /**
  * This class creates a DijkstraPath from two Edge's resulting from a BidirectionalDijkstra
- * <p/>
+ *
  * @author Peter Karich
  */
 public class PathBidirRef extends Path

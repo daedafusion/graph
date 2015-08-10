@@ -19,14 +19,12 @@ package com.daedafusion.graph.routing;
 
 /**
  * Calculates the shortest path from the specified node ids. Can be used only once.
- * <p/>
  * @author Peter Karich
  */
 public interface RoutingAlgorithm
 {
     /**
      * Calculates the best path between the specified nodes.
-     * <p/>
      * @return the path. Call the method found() to make sure that the path is valid.
      */
     Path calcPath(long from, long to);
