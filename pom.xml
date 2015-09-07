@@ -8,7 +8,7 @@
 
     <name>DaedaFusion Graph</name>
     <url>http://daedafusion.com</url>
-    <description></description>
+    <description>A graph routing algorithm library</description>
 
     <licenses>
         <license>
