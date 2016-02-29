@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/daedafusion/graph.svg?branch=master)](https://travis-ci.org/daedafusion/graph)
+
+[![Coverage Status](https://coveralls.io/repos/github/daedafusion/graph/badge.svg?branch=master)](https://coveralls.io/github/daedafusion/graph?branch=master)
+
 # graph
 Graph Algorithms (AStar, Dijkstra) adapted from Graphhopper (https://github.com/graphhopper/graphhopper/)
 
